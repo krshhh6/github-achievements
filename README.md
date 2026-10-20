@@ -4,3 +4,4 @@ GitHub Achievements &amp; Showcase
 
 ## Achievements Showcase
 - Unlocking Pair Extraordinaire and YOLO achievements.
+- Second merged PR for Pull Shark and Pair Extraordinaire.
